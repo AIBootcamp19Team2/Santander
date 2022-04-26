@@ -2,7 +2,23 @@
 
 ![Untitled](readmecapture/main.PNG)
 
-# 프로젝트 인원
+# 프로젝트 멤버
+<a href="https://github.com/LearningnRunning">
+    <img src="https://github.com/LearningnRunning.png"
+    width="100">
+</a>
+<a href="https://github.com/chisung98">
+    <img src="https://github.com/chisung98.png"
+    width="100">
+</a>
+<a href="https://github.com/FranciscoPark">
+    <img src="https://github.com/FranciscoPark.png"
+    width="100">
+</a>
+<a href="https://github.com/ji-hun-choi">
+    <img src="https://github.com/ji-hun-choi.png"
+    width="100">
+</a>
 - 김성록, 김치성, 박종연, 최지훈
 
 # 설명
