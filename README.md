@@ -36,7 +36,8 @@ kaggle competitions download -c santander-customer-satisfaction
     - 암호화가 된 데이터
     - 컬럼 370개 + TARGET 1개
         - TARGET 분포 비율
-        - ![Untitled](readmecapture/plot1.PNG)
+        
+        ![Untitled](readmecapture/plot1.PNG)
     
 - TEST.csv
     - 암호화가 된 데이터
@@ -54,11 +55,16 @@ kaggle competitions download -c santander-customer-satisfaction
 - 탐색적 데이터 분석 (EDA)
     - 특성 유추
         1. age로 판단 되는 column
-        - ![Untitled](readmecapture/age.PNG)
+        
+        ![Untitled](readmecapture/age.PNG)
+        
         2. 계좌 보유로 판단 되는 column
-        - ![Untitled](readmecapture/bank.PNG)
+        
+        ![Untitled](readmecapture/bank.PNG)
+        
     - 특성 중요도
-        - ![Untitled](readmecapture/top20.PNG)
+    
+        ![Untitled](readmecapture/top20.PNG)
 
 - 컬럼 제거(train-ID,TARGET 제거, test-ID 제거)
     1. 성록 - Pipeline과 재귀기능을 사용
