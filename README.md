@@ -61,7 +61,7 @@ kaggle competitions download -c santander-customer-satisfaction
          - 369개 column중 187개 컬럼 삭제 총 182개
     2. 지훈 - 특성과 특징을 살려서 제거
          - 369개 column중 247개 컬럼 삭제 총 122개
-- 필요 칼럼 추가
+- 필요 칼럼 추가 - 
     - Preprocess
         - 전처리 기능
     - PCA
