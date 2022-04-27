@@ -42,11 +42,15 @@ kaggle competitions download -c santander-customer-satisfaction
     - 암호화가 된 데이터
     - 컬럼 370개
 
-# 사용 대표 모델
+# 사용 모델
 - XGBClassifier 를 사용
 
 
 # 내용 설명
+- 데이터 훑어보기
+- 베이스라인 모델 탐색 - 치성
+    - XGBClassifier  : ROC AUC: 0.8456
+    - LGBMClassifier : ROC AUC: 0.8442
 - 탐색적 데이터 분석 (EDA)
     - 특성 유추
         1. age로 판단 되는 column
@@ -61,7 +65,7 @@ kaggle competitions download -c santander-customer-satisfaction
          - 369개 column중 187개 컬럼 삭제 총 182개
     2. 지훈 - 특성과 특징을 살려서 제거
          - 369개 column중 247개 컬럼 삭제 총 122개
-- 필요 칼럼 추가 - 
+- 필요 칼럼 추가 - 종연
     - Preprocess
         - 전처리 기능
     - PCA
